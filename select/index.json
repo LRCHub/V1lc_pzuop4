@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "もうバンドマンに恋なんてしない",
+  "base_artist": "ゴールデンボンバー",
+  "createdAt": "2025-12-15T09:41:32.877520Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "もうバンドマンに恋なんてしない",
+      "artist": "GOLDEN BOMBER",
+      "has_synced": true,
+      "path": "select/01_もうバンドマンに恋なんてしない_GOLDEN_BOMBER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "もうバンドマンに恋なんてしない",
+      "artist": "ゴールデンボンバー",
+      "has_synced": true,
+      "path": "select/02_もうバンドマンに恋なんてしない_ゴールデンボンバー.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もうバンドマンに恋なんてしない",
+      "artist": "ゴールデンボンバー",
+      "has_synced": false,
+      "path": "select/pl_01_もうバンドマンに恋なんてしない_ゴールデンボンバー.txt"
+    }
+  ]
+}
